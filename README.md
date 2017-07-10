@@ -1,6 +1,9 @@
-# ExpenseTracker
+# Statuses
+[![wercker status](https://app.wercker.com/status/2cf61826f67d5407cb41e85755a01a76/s/master "wercker status")](https://app.wercker.com/project/byKey/2cf61826f67d5407cb41e85755a01a76)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+# Expense Tracker
+
+(WIP) Track your expenses on daily basis and check out the reports for daily spends, budget & lots more.. 
 
 ## Development server
 
